@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a01c017105e4b9c956ad7aee0d32436, type: 3}
+  m_Name: PunDatabase
+  m_EditorClassIdentifier: 
+  subjects:
+  - Totti
+  - Il Gabibbo
+  - Jerry Scotty
+  - "Gerri Cal\xE0"
+  - Frank Matano
+  - ciro
+  - Jakie Chan
+  - Michele Misseri
+  - Cannavacciuolo
+  - chef barbieri
+  - il kebabbaro
+  - la stazione
+  - Paolo Brosio
+  - Hannah Montagna
+  - Pentole e bicchieri
+  - Saruman
+  - La mi mamma
+  - Ezio Greggio
+  - Pablo
+  - Garurumon
+  - Marco Moretti
+  - Il magico Renzo
+  - Taraballa
+  - Gabocop
+  - Le Veline
+  - Renato Zaro
+  - Ilary Blasi
+  - 'Tommaso Pistoi '
+  - Sexy Giletti
+  - Il reddito
+  - Gerry Scotti
+  - L'uomo Gatto
+  - San Pietro
+  - Mohamed Ali
+  - Zeb89
+  - I
+  - Il dio bestia
+  - Cannarsi
+  - Sambuco il mago segreto
+  - Un criceto
+  - Marcone
+  - Er Pupone
+  - Djunkelscog
+  - Il Duce
+  - Il signor presidente del consiglio Giorgia Meloni
+  - Marco
+  - Pierluigi Collina
+  - I pupazzi della Jam
+  - Malgiolio
+  - Piton
+  - Steve
+  - La regina elisabetta
+  - Carlo Conti
+  - Sexy Flander
+  - Stupido Sexy Flander
+  - Peter Griffin
+  - Il gabbibo blu
+  - Il grande puffo
+  - Puffetta
+  - Miku
+  - Sasha
+  - Lupo Alberto
+  - Giuseppe Sapio
+  - Bambini
+  - St3pny
+  - Poldo
+  - Beppe Grillo
+  verbs:
+  - distrugge
+  - flippa
+  - estrae
+  - espone
+  - pacchina
+  - ispeziona
+  - arrotola
+  - balla
+  - Prega
+  - Digerisce
+  - "Sono l\xEC"
+  - inala
+  - flexa
+  - Bastona
+  - Sbrodolando
+  - Irrompe
+  - frantuma
+  - Limona con
+  - Abbraccia
+  - Saltella
+  - Mangia
+  - Beve
+  - Assimila
+  - Sopravvive a
+  - Corre da
+  - Narra
+  - Poga
+  - Vive
+  - Paparazza
+  - procapite
+  - Boicotta
+  - Monta
+  - Fa a cazzotti
+  - Si sposa
+  - "si \xE8 innamorato di"
+  - F***ing hate
+  - Annaffia
+  - Doppia
+  - Caga
+  - Mangia
+  - Spamma Su
+  - Accalappia
+  - Scacco-matta
+  - Conduce
+  - cringia
+  - lava
+  - scrive
+  - canta
+  - Estrae
+  - 'Entra '
+  - Sdrena
+  - Esausta
+  - Straccia
+  - Esige
+  - Ansia
+  - Si defenestra
+  - fa diventare trans
+  - 'afferra '
+  - ingravida
+  - sfraffea
+  - fanno
+  - evade
+  - Non paga
+  - "\xE8 "
+  objects:
+  - viterbo
+  - il ferro
+  - 'la supposta '
+  - franchino er criminale
+  - il topper
+  - il kebab
+  - CInfa
+  - il brufen
+  - da ieri
+  - un orso
+  - il portamonete
+  - Un cucchiaio comicamente largo
+  - Un aiuola
+  - "La statua della libert\xE0"
+  - scuola
+  - un forchetto
+  - La cappella di Giotto
+  - Ezio Iacchetti
+  - Me perfavore :(
+  - sulla cappella Sistina
+  - Cavalli Arrabbiati
+  - un Tirannosauro
+  - Capitan Ventosa
+  - Il Sashone
+  - Freud
+  - Sedia
+  - Bubble Tea
+  - 'A Pistoia '
+  - ir tu babbo
+  - ad personam
+  - La Balilla
+  - La Gatta Nera
+  - con L'arcangelo Gabriele
+  - Con il Papa
+  - Liccardo Rosario
+  - toddlers
+  - Le piante di Evangelion
+  - la Melevisione
+  - In doppia fila
+  - un unicorno
+  - Discord
+  - Il comune
+  - i liberali
+  - La luce
+  - un croissant
+  - il pesto genovese
+  - la Divina Commedia
+  - una passeggiata sul Lungarno
+  - Ansia
+  - Calcestruzzo
+  - Spargiconcime
+  - Steam
+  - Mietitrebbia
+  - Spatola
+  - Finestra
+  - Zuppa di fagioli
+  - Minestrone
+  - i programmatori
+  - 'il piede di Tommaso '
+  - una gallina (canon)
+  - Denis Dosio
+  - OOOOOOOOOOOOOOH
+  - le tasse
+  - '"Le tasse'
+  - un furry
+  punchlines:
+  - "Questo \xE8 uno spasso!\r"
+  - "Mi sto sganasciando!\r"
+  - "Sei un genio della commedia!\r"
+  - "Hilarious! (Divertentissimo!)\r"
+  - "Non riesco a smettere di ridere!\r"
+  - "Troppo divertente!\r"
+  - "Mi stai facendo ridere a crepapelle!\r"
+  - "Quello \xE8 oro!\r"
+  - "LOL!\r"
+  - "Ah ah, buona!\r"
+  - "Dovresti fare cabaret!\r"
+  - "Oro comico!\r"
+  - "Sto rotolando per terra!\r"
+  - "Bravo! Ancora!\r"
+  - "Ce l'hai fatta!\r"
+  - "Avevo bisogno di quella risata!\r"
+  - "Mi fanno male i lati dal ridere!\r"
+  - "Sto piangendo dalle risate!\r"
+  - "Classico!\r"
+  - "Continua cos\xEC!\r"
+  - "Sto ridendo come una scolaretta!\r"
+  - "Pura genialit\xE0 comica!\r"
+  - "Mi stai facendo morire dal ridere!\r"
+  - "Non respiro, troppo divertente!\r"
+  - "Sei un comico?\r"
+  - "Hai reso la mia giornata!\r"
+  - "Ho fatto un colpo di tosse, \xE8 stato divertentissimo!\r"
+  - "Sto urlando dal ridere!\r"
+  - "Un + per l'umorismo!\r"
+  - "Mi inchino alla tua maestria comica!\r"
+  - "Comicit\xE0 al massimo!\r"
+  - "Quello \xE8 uno scassaminchia!\r"
+  - "Hai il dono della risata!\r"
+  - "Stai diventando un fuoco oggi!\r"
+  - "Non posso nemmeno affrontare quanto sia divertente stato!\r"
+  - "Dovresti essere in uno show comico!\r"
+  - "Seriamente, sei un comico?\r"
+  - "Ho riso cos\xEC forte da spaventare il mio gatto!\r"
+  - "Sto segnando questa battuta!\r"
+  - "Me la sto rubando!\r"
+  - "Mi fa male il viso dal sorridere!\r"
+  - "Hai la comicit\xE0 ridotta a una scienza!\r"
+  - "Ho bisogno di pi\xF9 battute del genere nella mia vita!\r"
+  - "Perfezione comica!\r"
+  - "Il mio riso risuona nella stanza!\r"
+  - "Sei un mago della comicit\xE0!\r"
+  - "Ho bisogno di un momento per riprendermi da quella risata!\r"
+  - "Quello \xE8 un riso di pancia, sicuramente!\r"
+  - "Hai il tocco comico!\r"
+  - "Bravo, materiale da cabaret proprio l\xEC!\r"
+  - "Sei la persona pi\xF9 divertente che conosca!\r"
+  - "Quella battuta merita un premio!\r"
+  - "Pagherei per vedere il tuo spettacolo comico!\r"
+  - "Mi hai fatto sentire il giorno 100% migliore!\r"
+  - "Sto sorridendo da orecchio a orecchio!\r"
+  - "Posso assumerti per la mia prossima festa?\r"
+  - "Hai il tocco magico con le battute!\r"
+  - "Quello \xE8 un capolavoro di risate!\r"
+  - "Il mio riso sta risuonando per i corridoi!\r"
+  - "Hai il tocco comico!\r"
+  - "Mi hai fatto piegare in due dal ridere!\r"
+  - "Mi sto mettendo quella battuta nella mia repertorio di barzellette!\r"
+  - "Quello \xE8 un capolavoro di battuta!\r"
+  - "Hai il tocco d'oro con l'umorismo!\r"
+  - "Sto sghignazzando come una scolaretta!\r"
+  - "Insegnami i tuoi modi comici!\r"
+  - "Sei un maestro della battuta!\r"
+  - "Quello \xE8 uno scassaminchia!\r"
+  - "Perfezione comica raggiunta!\r"
+  - "Mi sto alzando in piedi virtualmente!\r"
+  - "Hai il pubblico che ride a crepapelle!\r"
+  - "Quella \xE8 una battuta per i secoli!\r"
+  - "Il mio riso si sente da chilometri di distanza!\r"
+  - "Sei un ribelle del riso!\r"
+  - "Sar\xF2 felice di questo tutto il giorno!\r"
+  - "Mi sto sganasciando come un iena!\r"
+  - "Livello comico: Esperto!\r"
+  - "Hai il tocco d'oro con l'umorismo!\r"
+  - "Quella battuta \xE8 un gioiello!\r"
+  - "Sto ridendo come un pazzo!\r"
+  - "La sto mandando a tutti quelli che conosco!\r"
+  - "Quello \xE8 un momento da ridere ad alta voce!\r"
+  - "Sei un virtuoso dell'umorismo!\r"
+  - "Sto sorridendo come un gatto del Cheshire!\r"
+  - "Mi hai reso il giorno 10 volte migliore!\r"
+  - "Avevo bisogno di quella risata pi\xF9 di quanto tu possa immaginare!\r"
+  - "Hai un intuito per l'umorismo!\r"
+  - "Quella battuta \xE8 un capolavoro!\r"
+  - "La sto aggiungendo alla mia lista di comici preferiti!\r"
+  - "Sei il guru della risata!\r"
+  - "Quello \xE8 un trionfo comico!\r"
+  - "Ti do un cinque virtuale per quella!\r"
+  - "Mi fanno male le guance dal sorridere cos\xEC tanto!\r"
+  - "Hai il tempismo comico perfetto!\r"
+  - "Sto ridendo incontrollabilmente!\r"
+  - "Oro comico, amico mio!\r"
+  - "Hai il pubblico che ti mangia letteralmente dalla mano!\r"
+  - "Quella \xE8 una battuta per i libri di storia!\r"
+  - "Dovresti iniziare una rivoluzione comica!\r"
+  - Ti dichiaro il re/la regina della commedia!
+  titles:
+  - "\"Il Lato Comico del Capitano: Totti e le Sue Risate Giallorosse\"\r"
+  - "\"Tottilicious Humor Parade: Totti in Testa al Carro della Comicit\xE0\"\r"
+  - "\"Capitan Barzelotto: Totti e il Suo Regno delle Risate\"\r"
+  - "\"Ridere con Totti: Il Libro delle Barze da Record\"\r"
+  - "\"Tottilicious Comedy Gold: Totti e il Tesoro delle Risate\"\r"
+  - "\"Totti in Barzelandia: Il Mondo Comico del Capitano\"\r"
+  - "\"Capitan GagMaster: Totti e la Sua Arte dell'Umorismo\"\r"
+  - "\"Risate Giallorosse: Totti e il Suo Show Comico\"\r"
+  - "\"Tottilicious Joke Fest: Totti e la Festa della Comicit\xE0\"\r"
+  - "\"Capitan delle Barze: Totti e il Suo Arsenal Comico\"\r"
+  - "\"Ridere con Totti: La Risata Secondo il Capitano\"\r"
+  - "\"Tottilicious Humor Kingdom: Totti e il Suo Dominio Comico\"\r"
+  - "\"Capitan Comicus: Totti e la Sua Comicit\xE0 Infinita\"\r"
+  - "\"Risate con Stile Giallorosso: Totti e il Suo Elegante Humor\"\r"
+  - "\"Tottilicious Comedy Vault: Totti e la Risata Conservata\"\r"
+  - "\"Capitan Barzezza: Totti e la Sua Risata Intensa\"\r"
+  - "\"Risate da Stadio: Totti e il Suo Spettacolo Comico\"\r"
+  - "\"Tottilicious Laugh Factory: Totti e il Suo Repertorio Comico\"\r"
+  - "\"Capitan Giallorosso: Totti e le Sue Barzelotti da Campione\"\r"
+  - "\"Risate a Raffica con Totti: Il Libro del Capitano delle Barze\"\r"
+  - "\"Capitan Comicit\xE0: L'Arte del Sorriso secondo Totti\"\r"
+  - "\"Francesco Funny: Barze dal Mondo di Totti\"\r"
+  - "\"Totti Ridens: Risate dal Cuore del Capitano\"\r"
+  - "\"Il Grande Totti e le Sue Barze Piccanti\"\r"
+  - "\"10 per la Risata: Totti e i Suoi Colpi da Comico\"\r"
+  - "\"Sulle Orme del Capitano: Barzelotti Romani con Totti\"\r"
+  - "\"Totti Stand-Up: Il Palco della Comicit\xE0 Giallorossa\"\r"
+  - "\"Barzotto Capitano: Totti nel Regno delle Risate\"\r"
+  - "\"Risate a Raffica: Totti e le Sue Perle Comiche\"\r"
+  - "\"Capitan Buffone: Totti e le Sue Barze da Record\"\r"
+  - "\"Totti Comedy Hour: Il Capitano del Divertimento\"\r"
+  - "\"Ridere con il Cuore Giallorosso: Barzelotti di Totti\"\r"
+  - "\"Capitan Gags: Totti e il Calcio delle Risate\"\r"
+  - "\"Barzelotti in Rete: Totti e la Magia della Comicit\xE0\"\r"
+  - "\"Totally Funny: Barzelotti di Francesco Totti\"\r"
+  - "\"Il Mito della Comicit\xE0: Totti e le Sue Storie Divertenti\"\r"
+  - "\"Risate in Retezza: Totti e il Suo Humor Imbattibile\"\r"
+  - "\"Barzelotti da Stadio: Totti e la Sua Gara per la Risata\"\r"
+  - "\"Tottilicious Comedy: Le Barze da Capitano\"\r"
+  - "\"Totti & Ridere: Un Matrimonio Perfetto\"\r"
+  - "\"Ridere con Stile: Totti e le Sue Barze Giallorosse\"\r"
+  - "\"Capitano della Comicit\xE0: Totti e le Sue Battute da Campione\"\r"
+  - "\"Barzelotti Romaneschi: Totti e la Magia del Sorriso\"\r"
+  - "\"TottiScherzi: La Risata Secondo il Capitano\"\r"
+  - "\"Barzelotti d'Oro: Totti e i Suoi Gioielli Comici\"\r"
+  - "\"Comicit\xE0 Giallorossa: Totti e le Sue Barze da Stadio\"\r"
+  - "\"Totti Gigante della Risata: Barzelotti da Capolista\"\r"
+  - "\"Risate a 360 Gradi: Totti e il Suo Umorismo Completo\"\r"
+  - "\"Tottilicious Humor: Totti e le Sue Barzelotti Pungenti\"\r"
+  - "\"Capitan Comico: Le Risate di Totti nel Calcio\"\r"
+  - "\"Totti da Applausi: Il Capitano delle Barzelotti\"\r"
+  - "\"Risate e Calci: Totti e la Sua Formula Magica\"\r"
+  - "\"Capitan Sorriso: Totti e le Sue Barze Vincenti\"\r"
+  - "\"Tottilicious Jokes: Il Meglio di Totti nella Comicit\xE0\"\r"
+  - "\"Il Mondo di Totti: Barzelotti e Umorismo Giallorosso\"\r"
+  - "\"Barzelotti a Raffica: Totti e le Sue Risate Veloci\"\r"
+  - "\"Risate nel Cuore Giallorosso: Totti e le Sue Barzelotti\"\r"
+  - "\"Tottilicious Comedy Club: Totti sul Palco della Risata\"\r"
+  - "\"Capitan Ridere: Totti e la Sua Squadra di Barzelotti\"\r"
+  - "\"Risate da Derby: Totti e il Calcio delle Barze\"\r"
+  - "\"Totti Ridens: Il Capitano nella Comicit\xE0 Giallorossa\"\r"
+  - "\"Barzelotti d'Eccellenza: Totti e il Suo Humor Supremo\"\r"
+  - "\"Ridere da Campioni: Totti e le Sue Barzelotti Vincenti\"\r"
+  - "\"Tottilicious Gags: Il Divertimento secondo Totti\"\r"
+  - "\"Capitan Humor: Totti e la Sua Magia Comica\"\r"
+  - "\"Barze d'Oro: Totti e le Sue Risate Preziose\"\r"
+  - "\"Tottilicious Stand-Up: Totti e la Sua Comicit\xE0 Live\"\r"
+  - "\"Totti Comedy Gold: Barzelotti da Campione\"\r"
+  - "\"Capitan Riso: Totti e le Sue Barzelotti da Record\"\r"
+  - "\"Risate d'Autore: Totti e il Suo Stile Comico Unico\"\r"
+  - "\"Tottilicious Laughter: Il Risate di Totti\"\r"
+  - "\"Totti's Comedy Collection: Barzelotti da Capolista\"\r"
+  - "\"Capitan Barzelotto: Totti e la Sua Raccolta di Risate\"\r"
+  - "\"Risate al Primo Gol: Totti e le Sue Barzelotti da Record\"\r"
+  - "\"Tottilicious Giallorosso: Totti e la Comicit\xE0 in Retezza\"\r"
+  - "\"Capitan del Divertimento: Totti e le Sue Barzelotti\"\r"
+  - "\"Risate da Capitano: Il Mondo Comico di Totti\"\r"
+  - "\"Tottilicious Humor Festival: Totti e la Sua Esibizione Comica\"\r"
+  - "\"Totti & Ridere: Un Connubio Perfetto\"\r"
+  - "\"Capitan Sorriso: Totti e il Suo Regno della Comicit\xE0 Giallorossa\"\r"
+  - "\"Totti & Tacchi: Risate in Retezza\"\r"
+  - "\"Il Ridere del Capitano: Barzelotti di Totti\"\r"
+  - "\"Tottilicious Jokes: Una Risorsa Perpetua di Sorrisi\"\r"
+  - "\"Capitan Comico: Le Migliori Barze di Totti\"\r"
+  - "\"Totti a Tutto Tondo: Storie Divertenti dal Campo e Non Solo\"\r"
+  - "\"Risate Romane: Il Libro delle Barze di Francesco Totti\"\r"
+  - "\"TottiGags: L'Arte di Far Ridere di Francesco\"\r"
+  - "\"Barzelotti all'Italiana: Totti nel Mondo delle Risate\"\r"
+  - "\"Il Capitano della Comicit\xE0: Totti e le Sue Barzelotti\"\r"
+  - "\"Totti Rido: Una Raccolta di Barze a Tutto Campo\"\r"
+  - "\"Francesco Totti: Il Mito della Comicit\xE0\"\r"
+  - "\"Calcio e Comicit\xE0: Il Lato Divertente di Totti\"\r"
+  - "\"Risate con il Numero 10: Barze di Totti\"\r"
+  - "\"Totti Comedy Club: Il Palco delle Risate con Francesco\"\r"
+  - "\"Barze da Capitano: La Comicit\xE0 Secondo Totti\"\r"
+  - "\"TottiGiggle: Il Libro delle Barzelotti Romane\"\r"
+  - "\"Il Capitano dei Sorrisi: Totti e le Sue Barzelotti da Stadio\"\r"
+  - "\"Totally Funny: Totti e le Sue Barze da Campione\"\r"
+  - "\"La Risata \xE8 Capitana: Totti nelle Pagine Comiche\"\r"
+  - '"Sorrisi con il Capitano: Il Libro delle Barzelotti di Totti"'

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8aa5d1802c43ed9d66ddb02499b312, type: 3}
+  m_Name: IlaryGibberish
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ad1edbd28eba9424eb9c6dacfb71d5dc, type: 3}
+  - {fileID: 8300000, guid: e1e1b8c80e78a244aba331da46960150, type: 3}
+  - {fileID: 8300000, guid: 48246ef55bf8ea94b8acf3cbd8883e41, type: 3}
+  - {fileID: 8300000, guid: 848a106b571ad8e4da3ef9ae273f0923, type: 3}
+  - {fileID: 8300000, guid: af67d3b8502316c46b9bc4e2d4dfad9b, type: 3}
+  - {fileID: 8300000, guid: 4f64f7202c70bfb498b5c4594bf21dde, type: 3}
+  - {fileID: 8300000, guid: 315f6b32dc0ee6d479a3d45fbba16c15, type: 3}
+  - {fileID: 8300000, guid: 557718b30482af143b794f2ef40d7ece, type: 3}

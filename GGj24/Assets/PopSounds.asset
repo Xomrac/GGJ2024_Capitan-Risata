@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8aa5d1802c43ed9d66ddb02499b312, type: 3}
+  m_Name: PopSounds
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: f8bfb15f715f77d4c8ab65da3bccc3ab, type: 3}
+  - {fileID: 8300000, guid: 12340d4e1ab2eb549b9554542e6ccab0, type: 3}
+  - {fileID: 8300000, guid: bb3973067508af14fb0666c5ada101de, type: 3}
+  - {fileID: 8300000, guid: bc9f510b06b7e4849a7e413f76734740, type: 3}
+  - {fileID: 8300000, guid: 38cdaa83297711448a31d51a7eabda4d, type: 3}
+  - {fileID: 8300000, guid: 67217e8dcb0b30c48be651832eb5540b, type: 3}
+  - {fileID: 8300000, guid: 51b6c10c7bd5dd546abed9beeb81c1b3, type: 3}
+  - {fileID: 8300000, guid: ab73b09421c43c34cbb623d592e10fa3, type: 3}
+  - {fileID: 8300000, guid: adef5c2a008bff34f8f210b545e017af, type: 3}
