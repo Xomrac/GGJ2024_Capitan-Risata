@@ -14,17 +14,19 @@ public class WordsManager : MonoBehaviour
 	[SerializeField] private AnswerBalloon finalLineBalloon;
 	[SerializeField] private GameObject bookDisplayer;
 	[SerializeField] private TextMeshProUGUI progressText;
-
 	[SerializeField] private float balloonsDelay=0.5f;
-
-	
-
 	[SerializeField] private string currentPun;
-
 	[SerializeField] private float finalPhraseMinTime;
 	[SerializeField] private float timePerLetter;
 
 	[SerializeField]private PunDatabase database;
+	[SerializeField] private MouthMover mouth;
+	[SerializeField] private GameObject normalCharacter;
+	[SerializeField] private GameObject thinkingCharacter;
+
+	
+
+	
 	private bool firstTime = true;
 
 	private void Awake()
@@ -62,6 +64,9 @@ public class WordsManager : MonoBehaviour
 
 	public void DisplaySubjects()
 	{
+		normalCharacter.gameObject.SetActive(false);
+		thinkingCharacter.gameObject.SetActive(true);
+		mouth.enabled = false;
 		if (!firstTime)
 		{
 			bookDisplayer.gameObject.SetActive(true);
@@ -111,6 +116,10 @@ public class WordsManager : MonoBehaviour
 
 	public void DisplayFinalPhrase()
 	{
+		normalCharacter.gameObject.SetActive(true);
+		thinkingCharacter.gameObject.SetActive(false);
+		mouth.enabled = true;
+
 		foreach (AnswerBalloon balloon in answerBalloons)
 		{
 			balloon.gameObject.SetActive(false);

@@ -41,7 +41,7 @@ public class MouthMover : MonoBehaviour
 
     private IEnumerator MoveMouthCoroutine()
     {
-        AudioManager.instance.PlayClip(gibberish?.GetClip());
+        AudioManager.instance.PlayClipRandomPitched(gibberish?.GetClip());
         var newPosition = neutralPosition + new Vector3(Random.Range(xMovement.x, xMovement.y), Random.Range(yMovement.x, yMovement.y), 0);
         float elapsedTime = 0;
         var randomTime = Random.Range(movingSpeed.x, movingSpeed.y);
@@ -56,7 +56,7 @@ public class MouthMover : MonoBehaviour
 
     private IEnumerator MoveToNeutralPos()
     {
-        AudioManager.instance.PlayClip(gibberish?.GetClip());
+        // AudioManager.instance.PlayClipRandomPitched(gibberish?.GetClip());
 
         var startPos = rectTransform.localPosition;
         float elapsedTime = 0;

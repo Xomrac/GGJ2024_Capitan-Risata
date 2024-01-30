@@ -2,6 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
 namespace XomracLabs
 {
@@ -11,6 +12,10 @@ namespace XomracLabs
 		public static AudioManager instance;
 		[SerializeField] private AudioSource clipPlayer;
 		[SerializeField] private Button menuButton;
+
+		[SerializeField] private Vector2 pitchRange;
+
+		
 
 		
 
@@ -28,6 +33,17 @@ namespace XomracLabs
 			{
 				return;
 			}
+			clipPlayer.pitch = 1;
+			clipPlayer.PlayOneShot(clip);
+		}
+		
+		public void PlayClipRandomPitched(AudioClip clip)
+		{
+			if (clip==null)
+			{
+				return;
+			}
+			clipPlayer.pitch = Random.Range(pitchRange.x, pitchRange.y);
 			clipPlayer.PlayOneShot(clip);
 		}
 			

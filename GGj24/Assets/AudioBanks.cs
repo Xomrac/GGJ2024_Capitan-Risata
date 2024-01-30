@@ -9,6 +9,13 @@ namespace XomracLabs
 	{
 		public List<AudioClip> clips;
 
+		[SerializeField] private Vector2 pitchRange;
+		public Vector2 PitchRange => pitchRange;
+
+		
+
+		
+
 
 		public AudioClip GetClip()
 		{
